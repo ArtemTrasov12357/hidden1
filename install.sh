@@ -24,10 +24,10 @@ echo -e ${CP}"    | | / _ \ / _  |  _   _ \| | '_ \ _____| |_  | | '_ \ / _  |/ 
 echo -e ${CP}"   < < / ___ \ (_| | | | | | | | | | |_____|  _| | | | | | (_| |  __/ |   > > #"
 echo -e ${CP}"    | /_/   \_\__,_|_| |_| |_|_|_| |_|     |_|   |_|_| |_|\__,_|\___|_|  | |  #"
 echo -e ${CP}"     \_\                                                                /_/   #"
-echo -e  ${PINK}"              A Tool To Find Admin Panel Of The Website                       #"
+echo -e  ${PINK}"              This Tool To Find Admin Panel Of The Website                       #"
 echo -e ${BLUE}"                      https://facebook.com/unknownclay                        #"
-echo -e ${YELLOW}"                      Coded By: Machine404                                    #"
-echo -e ${CP}"                      https://github.com/machine1337                          #"
+echo -e ${YELLOW}"                      Coded By: ꧁ঔৣ☬❉{ HIDDEN PERSON }❉ঔৣ꧂                               #"
+echo -e ${CP}"                      https://github.com/ArtemTrasov/hidden1                       #"
 echo -e ${RED}"###############################################################################"
 
 }
